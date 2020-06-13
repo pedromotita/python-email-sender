@@ -1,2 +1,2 @@
 # python-email-sender
-A simple email sender buit on python using the email and smtplib
+This is a simple python script to send emails using python's `email` and `smtplib` libraries.
